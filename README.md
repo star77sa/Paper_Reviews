@@ -5,4 +5,4 @@
 ## Computer Vision
 ### CNN
 
-`-` [VGGNet, ICLR (2015)] Very Deep Convolutional Networks for Large-Scale Image Recognition[[Blog]](https://ksko0424.tistory.com/23)[[Slide]](https://drive.google.com/file/d/1-WnVJWXNxIXzJcWLRnvN8mDDcbL07lb1/view?usp=sharing)
+`-` [VGGNet] Very Deep Convolutional Networks for Large-Scale Image Recognition (ICLR 2015)[[Blog]](https://ksko0424.tistory.com/23)[[Slide]](https://drive.google.com/file/d/1-WnVJWXNxIXzJcWLRnvN8mDDcbL07lb1/view?usp=sharing)
