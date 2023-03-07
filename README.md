@@ -8,10 +8,10 @@
 - [AlexNet]
 
 - [VGGNet] Very Deep Convolutional Networks for Large-Scale Image Recognition (ICLR 2015)
-  - [[Blog]](https://ksko0424.tistory.com/23) / [[Slide]](https://drive.google.com/file/d/1-WnVJWXNxIXzJcWLRnvN8mDDcbL07lb1/view?usp=sharing)
+  - [Blog](https://ksko0424.tistory.com/23) / [Slide](https://drive.google.com/file/d/1-WnVJWXNxIXzJcWLRnvN8mDDcbL07lb1/view?usp=sharing)
 
 - [ResNet] Deep residual learning for image recognition (CVPR 2016)
-  - [[Blog]](https://ksko0424.tistory.com/24)
+  - [Blog](https://ksko0424.tistory.com/24)
 
 - [EfficientNet]
 
