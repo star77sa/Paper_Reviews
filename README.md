@@ -5,40 +5,42 @@
 ## Computer Vision
 ### CNN
 
-`-` [AlexNet]
+- [AlexNet]
 
-`-` [VGGNet] Very Deep Convolutional Networks for Large-Scale Image Recognition (ICLR 2015)[[Blog]](https://ksko0424.tistory.com/23)[[Slide]](https://drive.google.com/file/d/1-WnVJWXNxIXzJcWLRnvN8mDDcbL07lb1/view?usp=sharing)
+- [VGGNet] Very Deep Convolutional Networks for Large-Scale Image Recognition (ICLR 2015)
+  - [[Blog]](https://ksko0424.tistory.com/23) / [[Slide]](https://drive.google.com/file/d/1-WnVJWXNxIXzJcWLRnvN8mDDcbL07lb1/view?usp=sharing)
 
-`-` [ResNet] Deep residual learning for image recognition (CVPR 2016)[[Blog]](https://ksko0424.tistory.com/24)
+- [ResNet] Deep residual learning for image recognition (CVPR 2016)
+  - [[Blog]](https://ksko0424.tistory.com/24)
 
-`-` [EfficientNet]
+- [EfficientNet]
 
 ### Detection
-`-` [YOLO]
+- [YOLO]
 
-`-` [YOLOv3]
+- [YOLOv3]
 
-`-` [RCNN]
+- [RCNN]
 
-`-` [FasterRCNN]
+- [FasterRCNN]
 
-`-` [RetinaNet]
+- [RetinaNet]
 
 ### Segmentation
-`-` [MaskRCNN]
+- [MaskRCNN]
 
-`-` [YOLACT]
+- [YOLACT]
 
-`-` [U-Net]
+- [U-Net]
 
 ### Transformer
-`-` [ViT]
+- [ViT]
 
-`-` [swin Transformer]
+- [swin Transformer]
 
 ### Generative Model
-`-` [GAN]
+- [GAN]
 
-`-` [Diffusion Model]
+- [Diffusion Model]
 
 ---
