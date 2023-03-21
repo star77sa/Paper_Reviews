@@ -16,8 +16,8 @@
 - [EfficientNet]
 
 ### Detection
-- [YOLO] You Only Look Once: Unified, Real-Time Object Detection
-  - [Blog]
+- [YOLO] You Only Look Once: Unified, Real-Time Object Detection (CVPR 2016)
+  - [Blog]()
 
 - [YOLOv3]
 
