@@ -16,7 +16,8 @@
 - [EfficientNet]
 
 ### Detection
-- [YOLO]
+- [YOLO] You Only Look Once: Unified, Real-Time Object Detection
+  - [Blog]
 
 - [YOLOv3]
 
